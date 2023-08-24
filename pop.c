@@ -1,4 +1,5 @@
-#include "monty.h"
+#include "main.h"
+
 /**
  * f_pop - prints the top
  * @head: stack head

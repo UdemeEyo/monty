@@ -1,4 +1,5 @@
-#include "monty.h"
+#include "main.h"
+
 /**
  * f_queue - prints the top
  * @head: stack head
